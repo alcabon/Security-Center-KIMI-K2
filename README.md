@@ -60,7 +60,7 @@ You could effectively rebuild:
 
 ---
 
-Apologies for that—here's the **complete evaluation** in a more compact format:
+Here's the **complete evaluation** in a more compact format:
 
 ---
 
