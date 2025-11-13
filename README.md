@@ -1,4 +1,4 @@
-# Security-Center-KIMI2-
+# Security-Center-KIMI K2
 
 Based on the architecture of Security Center and your proposed approach (daily exports + local DB + VSCode extension), here's a realistic breakdown of reproducibility:
 
